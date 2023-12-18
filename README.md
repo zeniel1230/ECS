@@ -269,3 +269,8 @@ If you have any templated events, you may do the following:
 
 	template<typename T>
 	ECS_DEFINE_TYPE(MyEvent<T>);
+
+
+
+
+https://github.com/junkdog/artemis-odb/wiki/Introduction-to-Entity-Systems
